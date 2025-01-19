@@ -1,0 +1,99 @@
+title = "Tweelingzielcoach"
+baseURL = "https://gohugo-theme-ananke.pages.dev"
+theme = "ananke"
+resourceDir = "../resources"
+
+defaultContentLanguage = "nl"
+sectionPagesMenu = "main"
+enableRobotsTXT = true
+
+[services.googleAnalytics]
+id = ''
+
+[pagination]
+pagerSize = 30 # this is set low for demonstrating with dummy content. Set to a higher number
+
+[languages.en]
+contentDir = "content/en"
+languageCode = 'en-US'
+weight = 2
+title = "Twin Flame Coaching"
+# languageDirection = 'rtl' for Right-To-Left languages
+
+[languages.nl]
+contentDir = "content/nl"
+languageCode = 'nl-NL'
+weight = 1
+title = "Tweelingziel Coaching"
+  [languages.nl.menus]
+    [[languages.nl.menus.main]]
+      name = 'Over'
+      identifier = 'over'
+      pageRef = '/over'
+      weight = 1
+    [[languages.nl.menus.main]]
+      name = 'Consulten'
+      identifier = 'consulten'
+      pageRef = '/consulten'
+      weight = 20
+    [[languages.nl.menus.main]]
+      name = 'Ervaringen'
+      identifier = 'ervaringen'
+      pageRef = '/ervaringen'
+      weight = 30
+    [[languages.nl.menus.main]]
+      name = 'Blogs'
+      identifier = 'blogs'
+      url = 'https://www.valeriemediumhealer.nl/#blog'
+      weight = 40
+    [[languages.nl.menus.main]]
+      name = 'Tarieven'
+      identifier = 'tarieven'
+      pageRef = '/tarieven'
+      weight = 50
+    [[languages.nl.menus.main]]
+      name = 'Contact'
+      identifier = 'contact'
+      pageRef = '/contact'
+      weight = 90
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
+[params]
+text_color = "black"
+author = ""
+favicon = ""
+site_logo = ""
+description = "The last theme you'll ever need. Maybe."
+# choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+background_color_class = "bg-dark-pink"
+# choose fitting and alignment styles for the featured image using Tachyons classes such as "cover|contain" for fitting and "bg-top|bg-center|bg-bottom" for alignment, or add any other class space-separated to customize further
+featured_image_class = "cover bg-top"
+# choose a color dimming class for the page or site header from any on this page: https://tachyons.io/docs/themes/skins/, preface it with "bg-" and add the value such as "-X0" where X is in [1,9]
+cover_dimming_class = "bg-black-60"
+
+[params.ananke]
+show_recent_posts = false 
+
+[params.ananke.social.share]
+networks = [
+  "email",
+  "facebook",
+  "instagram"
+]
+
+[params.ananke.social.follow]
+networks = [
+  "facebook",
+  "instagram"
+]
+
+[params.ananke.social.facebook]
+username = "valeriemediumhealer"
+# profilelink = "https://www.facebook.com/patrick.kollitsch"
+
+[params.ananke.social.instagram]
+username = "valeriemediumhealer"
