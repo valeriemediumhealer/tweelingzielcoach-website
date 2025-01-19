@@ -1,5 +1,5 @@
 title = "Tweelingzielcoach"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "https://tweelingzielcoach.netlify.app"
 theme = "ananke"
 resourceDir = "../resources"
 
