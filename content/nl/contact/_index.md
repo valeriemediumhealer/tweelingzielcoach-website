@@ -15,8 +15,8 @@ description: We'd love to hear from you
 
 Lepelaarpark 63
 1444 HR Purmerend
-06-57003792
-info@valeriemediumhealer.nl
+{{% param contact.phone %}}
+{{% param contact.email %}}
 
 ## KvK
 KvK nummer 65835611
