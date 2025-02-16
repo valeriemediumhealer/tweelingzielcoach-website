@@ -16,7 +16,7 @@ Als ervaren tweelingziel coach, medium en healer help ik jou door een unieke com
 In je weg naar spirituele groei kun je veel triggers tegenkomen. Het proces kan zwaar en eenzaam zijn. Ik ben er voor jou als luisterend oor en kan je ondersteunen en begeleiden zowel praktisch als vanuit spiritueel bewustzijn.
 
 ## Reading
-Door de unieke regenboog reading die jij of ik maak (afhankelijk van of je in de praktijk komt of dat het op afstand is) geef ik je inzichten mee over het stuk van je leven waar je in zit. Waar sta je nu en waar mag je nog aan mag werken. Zie het als een spiegel die je voorgehouden wordt.
+Door de unieke regenboog reading die jij of ik maak (afhankelijk van of je in de praktijk komt of dat het op afstand is) geef ik je inzichten mee over het stuk van je leven waar je in zit. Waar sta je nu en waar mag je nog aan mag werken. Zie het als een spiegel die je voorgehouden wordt. Een tweelingziel kaart reading geeft je antwoorden en inzichten over waar jij en je tweelingziel staan, wat jullie nog blokkeert, wat spirit hierover te vertellen heeft en wat je van de mogelijke toekomst kunt verwachten.
 
 ## Healing
 Wanneer je je tweelingziel eenmaal ontmoet hebt, gebeurt er van alles in jouw systeem wat effect heeft op je hele zijn.
