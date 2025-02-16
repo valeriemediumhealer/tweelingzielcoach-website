@@ -6,10 +6,10 @@ description: We'd love to hear from you
 ---
 
 ## Mailtje sturen
-<a href="mailto:{{ $.Site.contact.email }}?subject={{ replace (printf "Re: %s" .Page.Title) "\"" "'" }}">Reply via email.</a>
+<a href="mailto:{{ $.Param.contact.email }}?subject={{ replace (printf "Re: %s" .Page.Title) "\"" "'" }}">Reply via email.</a>
 
 ## Telefonisch contact
-<a href="tel:{{ $.Site.contact.phone }}">Give me a call</a>
+<a href="tel:{{ $.Param.contact.phone }}">Give me a call</a>
 
 ## Adresgegevens
 
