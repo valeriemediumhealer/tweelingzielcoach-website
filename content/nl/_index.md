@@ -1,6 +1,6 @@
 ---
 title: "Tweelingziel Coach"
-description: "Op weg naar jezelf"
+description: "Een reis van ontwaken, reflectie en zelfliefde"
 theme_version: '2.8.2'
 cascade:
   featured_image: '/images/header.webp'

@@ -1,6 +1,6 @@
 ---
 title: "Twin Flame Coaching"
-description: "Reflecting your self-love"
+description: "A journey of awakening, reflection and self-love"
 theme_version: '2.8.2'
 
 cascade:
