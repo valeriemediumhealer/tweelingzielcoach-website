@@ -28,7 +28,7 @@ title = "Twin Flame Coaching"
     [[languages.en.menus.main]]
       name = 'Consults'
       identifier = 'consults'
-      pageRef = '/consulten'
+      pageRef = '/consults'
       weight = 20
     [[languages.en.menus.main]]
       name = 'Reviews'
