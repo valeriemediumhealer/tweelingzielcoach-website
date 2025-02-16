@@ -6,7 +6,7 @@ featured_image: '/images/header.webp'
 
 **Book a session with me.**
 
-I am here to support you wherever you are, in my practice in Purmerend,province (North Holland region, near Amsterdam) or worldwide via video calling.
+I am here to support you wherever you are, in my practice in Purmerend, province North Holland region (near Amsterdam) or worldwide via video calling.
 
 | Consult              | Rate |
 | -------------------- | -----------------|
