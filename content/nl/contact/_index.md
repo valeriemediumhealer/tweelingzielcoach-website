@@ -23,10 +23,10 @@ END:VCARD
 
 ## Adresgegevens
 
-Lepelaarpark 63
-1444 HR Purmerend
-{{% param contact.phone %}}
+Lepelaarpark 63,
+1444 HR Purmerend,
+{{% param contact.phone %}},
 {{% param contact.email %}}
 
-## KvK
-KvK nummer 65835611
+## KvK inschrijving
+KvK nummer: 65835611.
