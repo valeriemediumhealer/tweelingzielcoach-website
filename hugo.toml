@@ -128,3 +128,7 @@ username = "valeriemediumhealer"
 
 [params.ananke.social.instagram]
 username = "valeriemediumhealer"
+
+[params.contact]
+email = 'info@valeriemediumhealer.nl'
+phone = '+31 6-57003792'
