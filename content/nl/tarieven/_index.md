@@ -16,8 +16,8 @@ Ik ben er om jou te ondersteunen waar je ook bent, in mijn praktijk in Purmerend
 | Reading              | €  60,00 euro    |
 |  Halfjaar prognose   | €  60,00 euro    | 
 |  Jaar prognose       | € 120,00 euro    |
-| Regressie            | €  60,00 euro    |
-| Vorige levens sessie | €  60,00 euro    |
+| Regressie            | € 120,00 euro    |
+| Vorige levens sessie | € 120,00 euro    |
 
 _All of my consultations are also available in English._
 
