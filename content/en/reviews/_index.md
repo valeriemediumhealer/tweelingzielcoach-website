@@ -1,6 +1,6 @@
 ---
 title: "Reviews"
-description: "What customers say!"
+description: "What customers are saying!"
 featured_image: '/images/header.webp'
 ---
 
