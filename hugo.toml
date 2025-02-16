@@ -19,6 +19,37 @@ languageCode = 'en-US'
 weight = 2
 title = "Twin Flame Coaching"
 # languageDirection = 'rtl' for Right-To-Left languages
+  [languages.en.menus]
+    [[languages.en.menus.main]]
+      name = 'About'
+      identifier = 'about'
+      pageRef = '/about'
+      weight = 1
+    [[languages.en.menus.main]]
+      name = 'Consults'
+      identifier = 'consults'
+      pageRef = '/consulten'
+      weight = 20
+    [[languages.en.menus.main]]
+      name = 'Reviews'
+      identifier = 'reviews'
+      pageRef = '/reviews'
+      weight = 30
+    [[languages.en.menus.main]]
+      name = 'Blogs'
+      identifier = 'blogs'
+      url = 'https://www.valeriemediumhealer.nl/#blog'
+      weight = 40
+    [[languages.en.menus.main]]
+      name = 'Rates'
+      identifier = 'rates'
+      pageRef = '/rates'
+      weight = 50
+    [[languages.en.menus.main]]
+      name = 'Contact'
+      identifier = 'contact'
+      pageRef = '/contact'
+      weight = 90
 
 [languages.nl]
 contentDir = "content/nl"
